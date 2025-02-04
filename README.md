@@ -1,1 +1,2 @@
-# https-github.com-adnanza1ar-IAC-FA22-BGDD-003-Adnan-banch-Finals
+Reg No. iac-fa22-bgdd-003
+Name : Adnan Zafar
